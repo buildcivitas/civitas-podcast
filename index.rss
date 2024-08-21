@@ -36,27 +36,33 @@ src="https://buildcivitas.com/assets/images/Jon_Ericson.jpeg"
 alt="Jon Ericson" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id="links"&gt;Links&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=YN5fuP-qy6c"&gt;YouTube
-version of the episode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
+&lt;li&gt;&lt;p&gt;&lt;a
+href="https://dts.podtrac.com/redirect.mp3/buildcivitas.com/civitas-podcast/episodes/building_civitas.mp3"&gt;Audio
+version of the episode&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=86q6cUxKBE0"&gt;YouTube
+version of the episode&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
 href="https://beta.buildcivitas.com/t/building-civitas/191"&gt;Building
-Civitas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://buildcivitas.com/building-civitas/"&gt;The original
-version of the article&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
+Civitas&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://buildcivitas.com/building-civitas/"&gt;The original
+version of the article&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
 href="https://stackoverflow.blog/2008/09/15/then-a-miracle-occurs-public-beta/"&gt;Stack
-Overflow’s public beta announcement&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://knowyourmeme.com/memes/how-is-babby-formed"&gt;How is
-Babby Formed?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://beta.buildcivitas.com/errorpages/custom_50x.html"&gt;A
-kiwi throwing a kiwi&lt;/a&gt;&lt;/li&gt;
+Overflow’s public beta announcement&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://knowyourmeme.com/memes/how-is-babby-formed"&gt;How
+is Babby Formed?&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+href="https://beta.buildcivitas.com/errorpages/custom_50x.html"&gt;A kiwi
+throwing a kiwi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://buildcivitas.com/civitas-podcast/index.rss"&gt;RSS
+feed&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <itunes:image href="https://buildcivitas.com/civitas-podcast/episodes/E1.jpg"/>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/buildcivitas.com/civitas-podcast/episodes/building_civitas.mp3" length="6209494" type="audio/mp3"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/buildcivitas.com/civitas-podcast/episodes/building_civitas.mp3" length="6220921" type="audio/mp3"/>
       <link>https://dts.podtrac.com/redirect.mp3/buildcivitas.com/civitas-podcast/episodes/building_civitas.mp3</link>
-      <guid isPermaLink="false">6f5e61c31b4a69bc6b27a8d1c84db57bac558986</guid>
+      <guid isPermaLink="false">982c5c072bfa6a7efe67eace205ea9ee936b55c9</guid>
       <pubDate>Tue, 20 Aug 2024 00:00:00 -0700</pubDate>
-      <itunes:duration>608</itunes:duration>
+      <itunes:duration>619</itunes:duration>
     </item>
   </channel>
 </rss>
