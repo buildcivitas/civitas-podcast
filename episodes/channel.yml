@@ -1,0 +1,13 @@
+:title: 'Building Civitas'
+:description: 'A community manager podcast.'
+:url: 'https://buildcivitas.com/civitas-podcast/'
+:author: 'Jon Ericson'
+:owner:
+  :name: 'Jon Ericson'
+  :email: 'jon@buildcivitas.com'
+:image_url: 'kiwi.jpg'
+:categories: ['Society & Culture', 'Technology' , 'Education']
+:language: 'en-us'
+:explicit: 'false'
+:keywords: ['meta', 'community', 'discourse']
+:prefix_url: 'https://dts.podtrac.com/redirect.mp3/'
